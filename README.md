@@ -1,1 +1,4 @@
-# anime-knn
+pandas
+numpy
+scikit-learn
+streamlit
